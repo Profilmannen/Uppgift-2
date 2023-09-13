@@ -1,0 +1,79 @@
+body{
+    background-image: url(./winter-snow.jpg);
+    text-align: center;
+}
+
+.rubrik{
+    text-align: center;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+section ul{
+    border: 2px solid yellow;
+    background-color: darkslategray;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    color:  white;
+    padding: 20px;
+    #Text{
+        background-color: white;
+        color: red;
+    }
+
+    #Text2{
+        background-color: orange;
+    }
+    
+
+    
+    
+}
+
+
+
+
+table, th, td{
+    border: 1px solid black;
+    
+    
+    
+    
+   
+   
+}
+
+th{
+    height: 20px;
+    background-color: grey;
+}
+
+td{
+    height: 50px;
+    width: 80px;
+    background-color: beige;
+}
+
+table{
+
+    background-color: red;
+    
+   
+}
+
+.table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
+
+.Raketer{
+    border: 5px solid black;
+}
+
+
+
+                                                                                                                                                 
